@@ -1,21 +1,27 @@
 # ElixirCasuallyIntro
 
-**TODO: Add description**
+The samples from the introduction session in Elixir Casually #1
 
-## Installation
+## Samples
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_casually_intro` to your list of dependencies in `mix.exs`:
+[Tinder Pattern Matching Sample](./lib/elixir_casually_intro/tinder.ex)
+[Fibonacci Sample](./lib/elixir_casually_intro/fibonacci.ex)
 
-```elixir
-def deps do
-  [
-    {:elixir_casually_intro, "~> 0.1.0"}
-  ]
-end
-```
+## See more
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/elixir_casually_intro](https://hexdocs.pm/elixir_casually_intro).
+[Elixir Casually Event in Facebook](https://www.facebook.com/events/324285348213492/)
+[Thai Elixir Lang Community](https://www.facebook.com/groups/910733432435684/)
+[Elixir Erlang Phoenix Framework Thailand](https://www.facebook.com/groups/1032801373504990/)
 
+## Credits
+
+Credit to staffs to help organize the event and to @unnawut for writing this credits :)
+
+- Adhapol Vinn
+- Pallop Chao
+- Pii Boonchokchuay
+- Pongsatorn Paewsoongnern
+- Ranatchai Chernbamrung
+- Supanat IBoss Potiwarakorn
+- Unnawut Leepaisalsuwanna
+- Wasawat Somno
