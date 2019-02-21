@@ -1,19 +1,23 @@
 defmodule Fibonacci do
+  @moduledoc """
+  Module for various implementations for Fibonacci
+  """
+
   @doc """
   Normal Fibonacci function
 
   ## Examples
-    iex> Fibonacci.fibonacci(0)
-    0
+      iex> Fibonacci.fibonacci(0)
+      0
 
-    iex> Fibonacci.fibonacci(2)
-    1
+      iex> Fibonacci.fibonacci(2)
+      1
 
-    iex> Fibonacci.fibonacci(3)
-    2
+      iex> Fibonacci.fibonacci(3)
+      2
 
-    iex> Fibonacci.fibonacci(7)
-    13
+      iex> Fibonacci.fibonacci(7)
+      13
   """
   def fibonacci(n) do
     normal_fibo(n)
