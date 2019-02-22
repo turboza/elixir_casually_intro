@@ -1,6 +1,9 @@
 defmodule Fibonacci do
   @moduledoc """
   Module for various implementations for Fibonacci
+
+  P.S. Flipay is Hiring 🎉
+  See more here 👉 https://jobs.blognone.com/company/flipay-co-ltd/job/senior-software-engi-sq3Z
   """
 
   @doc """
