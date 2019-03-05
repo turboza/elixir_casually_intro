@@ -9,6 +9,7 @@ The samples from the introduction session in Elixir Casually #1
 
 ## Materials
 
+- [Summary Blog: Why we choose Elixir as the main technology for our startup?](https://medium.com/flipay/why-we-choose-elixir-as-the-main-technology-for-our-startup-30fe3b57ee31)
 - [Presentation](https://github.com/turboza/elixir_casually_intro/raw/master/presentation/From%20JS%20%26%20Ruby%20to%20Elixir.pdf)
 - [Video](https://www.youtube.com/watch?v=ktlNa1GH-Gs)
 
